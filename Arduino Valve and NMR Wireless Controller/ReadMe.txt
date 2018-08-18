@@ -1,0 +1,1 @@
+This project used an Arduino to control valves and a falling edge trigger for NMR spectra acquisitions via a graphical user interface. To run it, upload ArduinoVCandNMR.ino to an Arduino, then run the VCandNMRgui.pde from Processing. You may need to change the COM port depending on which  COM port a computer assigns to the bluetooth module paired to the Arduino. 
