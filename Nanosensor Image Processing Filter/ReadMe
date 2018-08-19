@@ -1,4 +1,5 @@
-#ReadMe Nano Image Processing Filter
+Nano Image Processing Filter Overview:
+
 The purpose of these MATLAB functions is to improve efficiency and objectivity of my team's data analysis by iterating through fluorescence profiles of regions of interest (ROI) from IR footage of ex vivo mice brains response to stimuli. 
 These functions were added to my post doc's repo: https://github.com/jtdbod/Nanosensor-Brain-Imaging
 The ROI returned by MATLABs image processing toolbox contained many nonsense plots, which previously needed to be manually screened and deleted. 
