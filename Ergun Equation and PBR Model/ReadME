@@ -1,3 +1,0 @@
-ReadMe
-
-The two MATLAB files model molar flow rates of seven chemical species passing through a packed bed reactor. The Ergun equation is used to determine the pressure drop. ODE45 is called to solve the coupled ODEs and return a concentration profile of each species as a function of accumulated catalyst mass.
