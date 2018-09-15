@@ -1,0 +1,1 @@
+This code will fit an exponential decay with a non-zero baseline to a dataset, but can be used as a template to define your own unique functions to new datasets. See video: https://youtu.be/lcgi7M9VqIs for detailed explanation. 
