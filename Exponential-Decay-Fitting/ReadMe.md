@@ -1,6 +1,6 @@
 Exponential Decay Fitting - Vincent Stevenson
 
-To run this script, download clone the repo and run main.m from the correct directory. 
+To run this script, clone the repo and run main.m from the correct directory. 
 The script fits a custom first order exponential decay curve to the decay regime in dF plots of nanosensor imaging datasets generated from my postdoc's repo: https://github.com/jtdbod/Nanosensor-Brain-Imaging.
 
 I use fminsearch to iterate through fitting parameters until a best fit is determined. To save processing time, only plots with a reasonable peak time (the number of frames between the stimulus frame and the maximum fluorescence intensity) are fitted.
